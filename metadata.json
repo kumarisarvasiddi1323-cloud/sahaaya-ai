@@ -1,0 +1,6 @@
+{
+  "name": "SAHAAYA AI — Disaster Rescue Coordination Platform",
+  "description": "Centralized operational disaster response coordination platform with Agent A orchestration for authorized rescue teams in Visakhapatnam and disaster zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
